@@ -3,6 +3,8 @@
 This project demonstrates communication between four tasks using a FreeRTOS queue on an emulation board provided through Eclipse CDT Embedded.
 
 ## System Design
+![image](https://github.com/AliMamdouh2025/FreeRTOS_Task_Coordination_Simulation/assets/144431914/767088d1-570b-45b4-9375-2142f6ba9a46)
+
 - Tasks:
 1. Three Sender Tasks (two with same priority, one with higher priority)
 2.  One Receiver Task
