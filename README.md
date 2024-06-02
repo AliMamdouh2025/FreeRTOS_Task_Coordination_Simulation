@@ -4,7 +4,7 @@ This project demonstrates communication between four tasks using a FreeRTOS queu
 
 ## System Design
 ![image](https://github.com/AliMamdouh2025/FreeRTOS_Task_Coordination_Simulation/assets/144431914/767088d1-570b-45b4-9375-2142f6ba9a46)
-![image](https://github.com/AliMamdouh2025/FreeRTOS_Task_Coordination_Simulation/assets/144431914/de52df28-410b-48ac-818c-415943580ed0)
+![image](https://github.com/AliMamdouh2025/FreeRTOS_Task_Coordination_Simulation/assets/144431914/521ed5dc-686f-4893-9bb6-8907bac4b375)
 
 - Tasks:
 1. Three Sender Tasks (two with same priority, one with higher priority)
